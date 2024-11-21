@@ -21,5 +21,5 @@ El proyecto incluye métodos para:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL-DEL-REPOSITORIO>
+   git clone [<URL-DEL-REPOSITORIO>](https://github.com/monxvoll/EualarianPathOrEulerianCircuit/tree/main)
    cd EulerianMethods
